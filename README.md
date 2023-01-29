@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**dogan-ay/dogan-ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <h1 align="center">Hi 👋, I'm Doğan Ay.</h1>
 
 <p align="left"> <a href="https://twitter.com/hereticdev" target="blank"><img src="https://img.shields.io/twitter/follow/hereticdev?logo=twitter&style=for-the-badge" alt="hereticdev" /></a> </p>
