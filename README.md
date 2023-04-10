@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **JavaScript,React, Next.js, CSS.**
 
-- 👨‍💻 All of my projects are available at [https://www.doganay.dev/projects](doganay.dev/projects)
+- 👨‍💻 All of my projects are available at [doganay.dev/projects](https://www.doganay.dev/projects)
 
-- ✍️ I regularly write articles on [https://www.doganay.dev/blog](doganay.dev/blog)
+- ✍️ I regularly write articles on [doganay.dev/blog](https://www.doganay.dev/blog)
 
 - 📫 How to reach me **balrog418@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dogandev](linkedin.com/in/dogandev)
+- 📄 Know about my experiences [linkedin.com/in/dogandev](https://www.linkedin.com/in/dogandev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
